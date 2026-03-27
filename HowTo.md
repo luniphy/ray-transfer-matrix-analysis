@@ -1,6 +1,6 @@
 # Ray Transfer Matrix Analysis
 #### HowTo file
-Author: Lukas Niggl
+Author: luniphys
 Semester: 23S
 
 ### Data
