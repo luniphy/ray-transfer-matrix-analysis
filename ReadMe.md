@@ -1,5 +1,5 @@
 # Ray Transfer Matrix Analysis
-Author: Lukas Niggl
+Author: luniphys
 Semester: 23S
 
 ### Idea behind the project
