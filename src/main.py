@@ -3,7 +3,7 @@
 
 Final Examination: Ray Transfer Matrix Analysis - main file
 
-:Author: Lukas Niggl
+:Author: luniphys
 """
 
 from config import *
