@@ -30,11 +30,14 @@ This project automates this calculation for five optical devices:
 ## Project Structure
 
 ```
-src/
-├── config.py   # Physical constants, refractive indices, and optical/inverse matrices
-├── main.py     # Core physics (including 2 preset scenarios)
-├── user.py     # Interactive CLI with validated user input
-└── tests.py    # Doctests for all core functions
+ray-transfer-matrix-analysis/
+├─ src/
+│  ├─ config.py     # Constants, refractive indices, error messages and optical/inverse matrices
+│  ├─ main.py       # Matrix-vector multiplication, angle calculations and result printing
+│  ├─ tests.py      # Doctests for core functions
+│  └─ user.py       # Interactive CLI with validated user input
+├─ LICENSE
+└─ README.md
 ```
 
 ## Example output
