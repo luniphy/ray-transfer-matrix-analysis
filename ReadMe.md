@@ -3,7 +3,7 @@
 
 # Ray Transfer Matrix Analysis
 
-A Python tool that computes how a light ray's angle changes when it interacts with optical elements using [Ray Transfer Matrix Analysis](https://en.wikipedia.org/wiki/Ray_transfer_matrix_analysis).
+A Python tool that computes how a light ray's angle changes when it interacts with optical elements using [Ray Transfer Matrix Analysis](https://en.wikipedia.org/wiki/Ray_transfer_matrix_analysis). This was originally an academic project completed during the **Digital Science Minor**.
 
 ## Overview
 
