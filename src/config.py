@@ -3,7 +3,7 @@
 
 Final Examination: Ray Transfer Matrix Analysis - data file
 
-:Author: luniphys
+:Author: luniphy
 """
 
 # Error messages

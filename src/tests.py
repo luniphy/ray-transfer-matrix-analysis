@@ -3,7 +3,7 @@
 
 Final Examination: Ray Transfer Matrix Analysis - testing file
 
-:Author: luniphys
+:Author: luniphy
 
 
 

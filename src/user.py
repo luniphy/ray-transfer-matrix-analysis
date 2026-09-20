@@ -3,7 +3,7 @@
 
 Final Examination: Ray Transfer Matrix Analysis - user file
 
-:Author: luniphys
+:Author: luniphy
 """
 
 from main import *
